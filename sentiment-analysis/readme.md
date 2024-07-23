@@ -8,8 +8,6 @@ This project focuses on analyzing the sentiment of movie reviews using the VADER
 - [Sentiment Analysis](#sentiment-analysis)
 - [Categorizing Sentiment Scores](#categorizing-sentiment-scores)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Saving and Loading the Model](#saving-and-loading-the-model)
 
 ## Requirements
 
